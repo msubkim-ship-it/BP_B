@@ -101,7 +101,7 @@ git checkout -b kpt/이름-영문또는로마자
 |------|--------|--------|:--------:|
 | 김명섭 | `kpt/myeongsub-kim` | `reviews/kpt-김명섭.md` | ✅ |
 | 김민주 | `kpt/minju-kim` | `reviews/kpt-김민주.md` | ✅ |
-| 김소민 | `kpt/somin-kim` | `reviews/kpt-김소민.md` | |
+| 김소민 | `kpt/somin-kim` | `reviews/kpt-김소민.md` | ✅ |
 | 김연우 | `kpt/yeonwoo-kim` | `reviews/kpt-김연우.md` | ✅ |
 | 김정균 | `kpt/jeonggyun-kim` | `reviews/kpt-김정균.md` | ✅ |
 | 김준호 | `kpt/junho-kim` | `reviews/kpt-김준호.md` | ✅ |
@@ -147,8 +147,8 @@ BP_B/
 │   ├── kpt-김준호.md
 │   ├── kpt-김명섭.md         # kpt/myeongsub-kim 브랜치
 │   └── kpt-{이름}.md
-└── summary/                  # 발표용 팀 취합본 (취합 후 main)
-    └── kpt-team-summary.md
+└── summary/                  # 발표용 팀 취합본
+    └── kpt-team-summary.md   # ✅ 6명 취합 · 3~5분 발표용
 ```
 
 ---
