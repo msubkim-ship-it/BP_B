@@ -83,7 +83,7 @@ git checkout -b kpt/이름-영문또는로마자
 
 | 팀원 | 브랜치 예시 | 파일명 |
 |------|------------|--------|
-| 김명섭 | `kpt/myungseop-kim` | `reviews/kpt-김명섭.md` |
+| 김명섭 | `kpt/myeongsub-kim` | `reviews/kpt-김명섭.md` |
 | 김민주 | `kpt/minju-kim` | `reviews/kpt-김민주.md` |
 | 김소민 | `kpt-somin-kim` | `reviews/kpt-김소민.md` |
 | 김연우 | `kpt/yeonwoo-kim` | `reviews/kpt-김연우.md` |
